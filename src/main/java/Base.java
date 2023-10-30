@@ -11,10 +11,6 @@ public class Base {
         int i = scanner.nextInt();
         String text = scanner.next();
 
-        System.out.println("Int " + i);
-        System.out.println("Str " + text);
-        System.err.println("error");
-
         System.out.println("ghjgh");
         System.out.printf("%+12.10f", Math.PI);
         scanner.close();
